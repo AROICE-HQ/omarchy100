@@ -16,7 +16,7 @@ Status: `Idea → Designing → Building → Testing → Pushed → Submitted �
 | 2 | Better Network | S01 omarchy-plus | `network` | [`omarchy-network`](https://github.com/AROICE-HQ/omarchy-network) | Submitted ([#4096](https://github.com/omacom/omarchy-plugin-marketplace/issues/4096)) |
 | 3 | Better Battery | S01 omarchy-plus | `battery` | [`omarchy-battery`](https://github.com/AROICE-HQ/omarchy-battery) | Submitted ([#4100](https://github.com/omacom/omarchy-plugin-marketplace/issues/4100)) |
 | 4 | Better Bluetooth | S01 omarchy-plus | `bluetooth` | [`omarchy-bluetooth`](https://github.com/AROICE-HQ/omarchy-bluetooth) | Submitted ([#4104](https://github.com/omacom/omarchy-plugin-marketplace/issues/4104)) |
-| 5 | Better Audio | S01 omarchy-plus | `audio` | `omarchy-audio` | Idea |
+| 5 | Better Audio | S01 omarchy-plus | `audio` | [`omarchy-audio`](https://github.com/AROICE-HQ/omarchy-audio) | Submitted ([#4108](https://github.com/omacom/omarchy-plugin-marketplace/issues/4108)) |
 | 6 | Better Workspace | S01 omarchy-plus | `workspace` | `omarchy-workspace` | Idea |
 | 7 | Better Notifications | S01 omarchy-plus | `notifications` | `omarchy-notifications` | Idea |
 | 8 | Better System Tray | S01 omarchy-plus | `tray` | `omarchy-tray` | Idea |
