@@ -2,7 +2,7 @@
 
 A 100-plugin suite for [Omarchy](https://omarchy.org) Quattro, built native to the Quickshell/QML shell — enhanced built-ins, productivity tools, dev-tool dashboards, system monitors, media controls, window/desktop management, and theming utilities.
 
-Full catalog with feature briefs, technical foundation, and build order: see [`plan.md`](https://github.com/AROICE-HQ/omarchy100/blob/main/plan.md) and [`plugins.md`](https://github.com/AROICE-HQ/omarchy100/blob/main/plugins.md) in this repo.
+Full catalog with feature briefs, technical foundation, and build order live in `plan.md`/`plugins.md` locally — internal working docs, not published here.
 
 This repo is the index/tracker only — no plugin code lives here. Each plugin (or shared-backend cluster) ships from its own repo under this org.
 
