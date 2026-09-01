@@ -12,7 +12,7 @@ Status: `Idea → Designing → Building → Testing → Pushed → Submitted �
 
 | # | Plugin | Series | id suffix | Repo | Status |
 |---|--------|--------|-----------|------|--------|
-| 1 | Better Clock | S01 omarchy-plus | `clock` | `omarchy-clock` | Idea |
+| 1 | Better Clock | S01 omarchy-plus | `clock` | [`omarchy-clock`](https://github.com/AROICE-HQ/omarchy-clock) | Submitted ([#4086](https://github.com/omacom/omarchy-plugin-marketplace/issues/4086)) |
 | 2 | Better Network | S01 omarchy-plus | `network` | `omarchy-network` | Idea |
 | 3 | Better Battery | S01 omarchy-plus | `battery` | `omarchy-battery` | Idea |
 | 4 | Better Bluetooth | S01 omarchy-plus | `bluetooth` | `omarchy-bluetooth` | Idea |
